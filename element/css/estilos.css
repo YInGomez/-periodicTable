@@ -1,0 +1,14 @@
+main {
+	margin-top: 40%;
+}
+
+main .contenedor {
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.fm-video .vjs-control-bar {
+	background: rgb(255, 255, 255);
+	color: #D10003;
+}
