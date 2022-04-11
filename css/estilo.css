@@ -1,0 +1,20 @@
+#categorias{
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+	font-size: 14px;
+}
+
+.introduccion{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	box-sizing: border-box;
+	text-align: left;
+	color: #D10003;
+}
+
+.parrafo{
+	color: #000000;
+	text-align: left;
+}

@@ -1,0 +1,62 @@
+#table-e{
+	width: 100%;
+	height: auto;
+	align-content: center;
+	overflow-x: scroll;
+}
+
+table-e,td{
+	height: 5.5px;
+	min-height: 55.5px;
+	max-height: 55.5px;
+	width: 5.5px;
+	min-width: 55.5px;
+	max-width: 55.5px;
+	overflow: hidden;
+	font-size: 14px;
+	text-align: center;
+}
+
+#radiactivo{
+	border: rgba(255, 0, 0, 1) 3px solid;
+}
+.no-metal{
+	background: #00FF00;
+}
+
+.gas-noble{
+	background: #0000FF;
+}
+
+.metal-alcalino{
+	background: #FF00FF;
+}
+
+.metal-alcalinoterreo{
+	background: #D35400;
+}
+
+.halogenos{
+	background: #5DADE2;
+}
+
+.semimetales{
+	background: #229954;
+}
+
+.otros-metales{
+	background: #FFBA0E;
+}
+
+.metales-transicion{
+	background: #FFFF00;
+}
+
+.metales-transicion-interna{
+	background: #E74C3C;
+}
+
+#referencia{
+	border: 2px solid #000000;
+}
+

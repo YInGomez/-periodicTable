@@ -1,0 +1,25 @@
+.titulo-elements{
+	width: 100%;
+	float: left;
+	color: #D10003;
+	font-size: 35px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.titulo ul{}
+
+.titulo ul li{
+	list-style: none;
+}
+
+.titulo ul li a{
+	text-decoration: none;
+	color: #000000;
+	padding: 10px 10px;
+	font-size: 20px;
+}
+
+#elements .titulo ul li a:hover {
+	color: #D10003;
+}
